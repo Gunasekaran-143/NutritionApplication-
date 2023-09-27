@@ -23,7 +23,8 @@ This is a combined project a group of 3 created this user-friendly application f
 <br>
 <img width="494" alt="image" src="https://github.com/Gunasekaran-143/Deploy-Online-Book-Store-on-Infinity-Free/assets/134137559/ddcd2fb5-77bb-4e06-b672-c8332f2462a7">
 <br>
-## Project Modules
+
+# Project Modules
 <img width="336" alt="image" src="https://github.com/Gunasekaran-143/Deploy-Online-Book-Store-on-Infinity-Free/assets/134137559/65a8c74c-8951-453b-b4d7-445abbc2741e">
 
 <br>
